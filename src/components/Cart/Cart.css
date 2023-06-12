@@ -1,0 +1,13 @@
+.cart {
+    position: sticky;
+    top: 0;
+    padding-left: 20px;
+}
+
+.cart-header {
+    padding-bottom: 20px;
+}
+
+.para {
+    margin-bottom: 30px;
+}
